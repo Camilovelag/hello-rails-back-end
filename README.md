@@ -83,8 +83,7 @@ Clone this repository to your desired folder:
 Install this project running the following commands (if overwrites, type `n`):
 
 ```
-./bin/bundle install
-./bin/rails javascript:install:webpack
+bundle install
 ```
 
 Then, create and populate the database running:
