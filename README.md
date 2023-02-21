@@ -27,7 +27,7 @@
 
 # 📖 Hello Rails Back End <a name="about-project"></a>
 
-Simple API which returns a random greeting message. To watch messages, use [hello-react-front-end](https://github.com/Camilovelag/hello-react-front-end).
+Simple API which returns a random greeting message. To watch messages, click on [hello-react-front-end](https://github.com/Camilovelag/hello-react-front-end).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
